@@ -1,0 +1,12 @@
+D0 – Abnormally Dry
+
+D1 – Moderate Drought
+
+D2 – Severe Drought
+
+D3 – Extreme Drought
+
+D4 – Exceptional Drought
+
+Total Area in Drought (D1–D4)
+
