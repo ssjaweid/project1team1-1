@@ -1,0 +1,508 @@
+date,name,lat,lon,wind_speed,category,country,country_code,state
+1983-08-18 07:00:00,ALICIA,29.1,-95.1,100.0,Category 3,United States,US,Texas
+1983-08-25 11:00:00,BARRY,27.9,-80.6,30.0,Tropical Depression,United States,US,Florida
+1983-08-28 17:25:00,BARRY,25.4,-97.4,70.0,Category 1,México,MX,Tamaulipas
+1984-09-13 07:00:00,DIANA,33.9,-78.0,80.0,Category 1,United States,US,North Carolina
+1985-07-25 03:00:00,BOB,32.2,-80.5,65.0,Category 1,United States,US,
+1985-08-15 16:30:00,DANNY,29.6,-92.7,80.0,Category 1,United States,US,Louisiana
+1985-09-02 13:00:00,ELENA,30.4,-89.2,100.0,Category 3,United States,US,Mississippi
+1985-09-24 21:00:00,HENRI,40.8,-72.5,35.0,Tropical Storm,United States,US,New York
+1985-09-25 00:00:00,HENRI,41.3,-71.8,30.0,Tropical Depression,United States,US,Rhode Island
+1985-09-27 05:30:00,GLORIA,35.2,-75.6,90.0,Category 2,United States,US,North Carolina
+1985-09-27 16:00:00,GLORIA,40.6,-73.3,75.0,Category 1,United States,US,New York
+1985-10-10 21:00:00,ISABEL,30.6,-81.4,35.0,Tropical Storm,United States,US,Florida
+1985-10-29 11:00:00,JUAN,29.5,-91.4,65.0,Category 1,United States,US,Louisiana
+1985-11-21 22:30:00,KATE,30.0,-85.4,85.0,Category 2,United States,US,Florida
+1986-06-26 10:00:00,BONNIE,29.6,-94.2,75.0,Category 1,United States,US,Texas
+1986-08-17 14:00:00,CHARLEY,34.7,-76.5,65.0,Category 1,United States,US,North Carolina
+1987-08-10 06:00:00,UNNAMED,29.5,-94.5,40.0,Tropical Storm,United States,US,Texas
+1987-09-23 03:00:00,EMILY,18.3,-71.0,95.0,Category 2,República Dominicana,DO,Barahona
+1987-09-25 11:45:00,EMILY,32.3,-64.7,75.0,Category 1,Bermuda,BM,
+1987-10-12 21:00:00,FLOYD,25.1,-80.5,65.0,Category 1,United States,US,Florida
+1988-08-28 15:00:00,CHRIS,32.0,-80.9,40.0,Tropical Storm,United States,US,Georgia
+1988-09-03 00:00:00,DEBBY,20.7,-97.3,65.0,Category 1,México,MX,Veracruz
+1988-09-10 02:00:00,FLORENCE,29.1,-89.3,70.0,Category 1,United States,US,Louisiana
+1988-09-12 17:00:00,GILBERT,17.8,-76.8,115.0,Category 4,Jamaica,JM,
+1988-09-14 15:00:00,GILBERT,20.7,-87.0,140.0,Category 5,México,MX,
+1988-09-16 22:00:00,GILBERT,24.2,-97.8,110.0,Category 3,México,MX,Tamaulipas
+1988-10-15 01:00:00,JOAN,12.1,-61.8,45.0,Tropical Storm,Grenada,GD,
+1988-10-17 06:00:00,JOAN,12.0,-71.2,55.0,Tropical Storm,Colombia,CO,La Guajira
+1988-10-22 10:00:00,JOAN,11.9,-83.7,125.0,Category 4,Nicaragua,NI,
+1988-11-21 08:00:00,KEITH,21.2,-86.8,60.0,Tropical Storm,México,MX,Quintana Roo
+1988-11-23 07:00:00,KEITH,27.3,-82.6,55.0,Tropical Storm,United States,US,Florida
+1989-06-26 13:00:00,ALLISON,28.7,-95.7,40.0,Tropical Storm,United States,US,Texas
+1989-08-01 13:00:00,CHANTAL,29.6,-94.4,70.0,Category 1,United States,US,Texas
+1989-08-08 13:00:00,DEAN,46.9,-55.9,55.0,Tropical Storm,Canada,CA,Newfoundland and Labrador
+1989-09-17 05:00:00,HUGO,16.3,-61.3,120.0,Category 4,France,FR,Guadeloupe
+1989-09-18 06:00:00,HUGO,17.7,-64.8,120.0,Category 4,United States,US,United States Virgin Islands
+1989-09-18 12:00:00,HUGO,18.2,-65.5,110.0,Category 3,United States,US,Puerto Rico
+1989-09-18 13:00:00,HUGO,18.3,-65.6,110.0,Category 3,United States,US,Puerto Rico
+1989-09-22 04:00:00,HUGO,32.8,-79.8,120.0,Category 4,United States,US,South Carolina
+1989-10-16 00:30:00,JERRY,29.2,-95.0,75.0,Category 1,United States,US,Texas
+1990-08-05 20:00:00,DIANA,19.0,-87.6,55.0,Tropical Storm,México,MX,Quintana Roo
+1990-08-07 19:00:00,DIANA,20.9,-97.0,85.0,Category 2,,,
+1991-08-19 17:20:00,BOB,41.2,-71.6,90.0,Category 2,United States,US,Rhode Island
+1991-08-19 18:00:00,BOB,41.4,-71.4,85.0,Category 2,United States,US,Rhode Island
+1991-08-20 01:30:00,BOB,44.1,-69.1,60.0,Tropical Storm,United States,US,Maine
+1991-09-12 03:00:00,ERIKA,37.7,-25.9,35.0,Tropical Storm,Portugal,PT,
+1991-10-15 21:00:00,FABIAN,21.5,-82.8,40.0,Tropical Storm,Cuba,CU,Isla de la Juventud
+1991-10-16 00:00:00,FABIAN,22.4,-81.8,40.0,Tropical Storm,Cuba,CU,Matanzas
+1991-11-02 14:00:00,UNNAMED,44.6,-63.5,45.0,Tropical Storm,Canada,CA,Nova Scotia
+1992-08-23 21:00:00,ANDREW,25.4,-76.6,140.0,Category 5,The Bahamas,BS,
+1992-08-24 01:00:00,ANDREW,25.4,-77.8,130.0,Category 4,The Bahamas,BS,
+1992-08-24 08:40:00,ANDREW,25.5,-80.2,145.0,Category 5,United States,US,Florida
+1992-08-24 09:05:00,ANDREW,25.5,-80.3,145.0,Category 5,United States,US,Florida
+1992-08-26 08:30:00,ANDREW,29.6,-91.5,100.0,Category 3,United States,US,Louisiana
+1992-09-25 22:00:00,DANIELLE,37.8,-75.5,55.0,Tropical Storm,United States,US,Virginia
+1993-06-20 09:00:00,ARLENE,27.1,-97.4,35.0,Tropical Storm,United States,US,Texas
+1993-08-07 07:00:00,BRET,10.8,-60.8,50.0,Tropical Storm,Trinidad and Tobago,TT,
+1993-08-07 10:00:00,BRET,10.8,-61.8,50.0,Tropical Storm,Venezuela,VE,
+1993-08-08 08:00:00,BRET,11.0,-68.3,40.0,Tropical Storm,Venezuela,VE,Falcón
+1993-08-10 17:00:00,BRET,11.1,-83.8,40.0,Tropical Storm,Nicaragua,NI,
+1993-08-14 18:00:00,CINDY,14.5,-60.9,35.0,Tropical Storm,France,FR,Martinique
+1993-08-16 21:00:00,CINDY,18.3,-71.0,30.0,Tropical Depression,República Dominicana,DO,Barahona
+1993-09-15 18:00:00,GERT,11.8,-83.8,35.0,Tropical Storm,Nicaragua,NI,
+1993-09-18 00:00:00,GERT,17.3,-88.1,35.0,Tropical Storm,Belize,BZ,Belize District
+1993-09-20 21:00:00,GERT,21.2,-97.5,85.0,Category 2,México,MX,Veracruz
+1994-07-03 15:00:00,ALBERTO,30.4,-86.5,55.0,Tropical Storm,United States,US,Florida
+1994-07-20 14:00:00,UNNAMED,33.2,-79.2,30.0,Tropical Depression,United States,US,South Carolina
+1994-08-16 00:00:00,BERYL,30.0,-85.6,50.0,Tropical Storm,United States,US,Florida
+1994-08-31 06:00:00,UNNAMED,22.4,-98.0,30.0,Tropical Depression,México,MX,Tamaulipas
+1994-09-10 03:00:00,DEBBY,14.0,-61.0,55.0,Tropical Storm,Saint Lucia,LC,Castries
+1994-09-25 18:00:00,UNNAMED,16.6,-88.4,30.0,Tropical Depression,Belize,BZ,Stann Creek District
+1994-11-10 06:00:00,GORDON,14.0,-83.4,30.0,Tropical Depression,Nicaragua,NI,
+1994-11-13 03:00:00,GORDON,17.9,-76.8,35.0,Tropical Storm,Jamaica,JM,
+1994-11-13 13:00:00,GORDON,20.0,-74.9,40.0,Tropical Storm,Cuba,CU,Guantánamo
+1994-11-15 13:00:00,GORDON,24.6,-81.7,45.0,Tropical Storm,United States,US,Florida
+1994-11-16 13:00:00,GORDON,26.5,-81.9,45.0,Tropical Storm,United States,US,Florida
+1994-11-21 03:00:00,GORDON,28.5,-80.6,25.0,Tropical Depression,United States,US,Florida
+1995-06-05 14:00:00,ALLISON,29.9,-84.4,60.0,Tropical Storm,United States,US,Florida
+1995-06-05 15:00:00,ALLISON,30.1,-84.2,55.0,Tropical Storm,United States,US,Florida
+1995-07-09 21:30:00,BARRY,45.3,-61.0,50.0,Tropical Storm,Canada,CA,Nova Scotia
+1995-07-09 22:00:00,BARRY,45.6,-60.8,45.0,Tropical Storm,Canada,CA,Nova Scotia
+1995-07-31 02:00:00,DEAN,29.2,-95.3,40.0,Tropical Storm,United States,US,Texas
+1995-08-02 06:15:00,ERIN,27.7,-80.3,75.0,Category 1,United States,US,
+1995-08-03 16:00:00,ERIN,30.3,-87.2,75.0,Category 1,United States,US,Florida
+1995-08-06 23:00:00,UNNAMED,21.5,-97.4,30.0,Tropical Depression,México,MX,Veracruz
+1995-08-11 20:00:00,GABRIELLE,23.7,-97.8,60.0,Tropical Storm,México,MX,Tamaulipas
+1995-08-23 18:00:00,JERRY,27.0,-80.2,35.0,Tropical Storm,United States,US,Florida
+1995-08-27 18:00:00,IRIS,17.0,-61.9,50.0,Tropical Storm,Antigua and Barbuda,AG,Antigua
+1995-08-27 23:00:00,IRIS,17.7,-62.0,55.0,Tropical Storm,Antigua and Barbuda,AG,Barbuda
+1995-09-14 21:00:00,MARILYN,15.5,-61.3,70.0,Category 1,Dominica,DM,Saint Andrew Parish
+1995-10-04 22:00:00,OPAL,30.3,-87.1,100.0,Category 3,United States,US,Florida
+1995-10-11 02:00:00,ROXANNE,20.0,-87.6,100.0,Category 3,México,MX,Quintana Roo
+1996-06-20 00:00:00,ARTHUR,34.7,-76.4,35.0,Tropical Storm,United States,US,North Carolina
+1996-07-12 20:00:00,BERTHA,34.3,-77.8,90.0,Category 2,United States,US,North Carolina
+1996-07-28 04:00:00,CESAR,12.2,-83.9,75.0,Category 1,Nicaragua,NI,
+1996-08-20 17:30:00,DOLLY,19.1,-87.7,65.0,Category 1,México,MX,Quintana Roo
+1996-08-23 12:00:00,DOLLY,21.6,-97.7,70.0,Category 1,México,MX,Veracruz
+1996-09-06 00:30:00,FRAN,33.9,-78.0,100.0,Category 3,United States,US,North Carolina
+1996-09-10 06:00:00,HORTENSE,18.0,-66.9,70.0,Category 1,United States,US,Puerto Rico
+1996-09-15 03:00:00,HORTENSE,44.8,-62.5,70.0,Category 1,Canada,CA,Nova Scotia
+1996-10-08 03:30:00,JOSEPHINE,30.0,-83.9,60.0,Tropical Storm,United States,US,Florida
+1996-10-12 12:00:00,KYLE,16.0,-88.1,30.0,Tropical Depression,Honduras,HN,Cortés
+1996-10-18 09:30:00,LILI,22.3,-82.0,85.0,Category 2,Cuba,CU,Matanzas
+1997-07-18 09:00:00,DANNY,29.3,-89.7,65.0,Category 1,United States,US,Louisiana
+1997-07-19 10:00:00,DANNY,30.2,-88.1,70.0,Category 1,United States,US,Alabama
+1997-07-19 18:00:00,DANNY,30.4,-87.9,65.0,Category 1,United States,US,Alabama
+1998-08-22 10:00:00,CHARLEY,27.8,-97.1,40.0,Tropical Storm,United States,US,Texas
+1998-08-27 04:00:00,BONNIE,34.4,-77.7,95.0,Category 2,United States,US,North Carolina
+1998-09-03 06:00:00,EARL,30.1,-85.7,70.0,Category 1,United States,US,Florida
+1998-09-11 06:00:00,FRANCES,28.2,-96.9,45.0,Tropical Storm,United States,US,Texas
+1998-09-20 05:00:00,HERMINE,29.1,-90.9,35.0,Tropical Storm,United States,US,Louisiana
+1998-09-21 04:30:00,GEORGES,17.0,-61.7,100.0,Category 3,Antigua and Barbuda,AG,Antigua
+1998-09-21 08:00:00,GEORGES,17.2,-62.6,100.0,Category 3,Saint Kitts and Nevis,KN,
+1998-09-21 22:00:00,GEORGES,18.1,-65.8,100.0,Category 3,United States,US,Puerto Rico
+1998-09-22 12:30:00,GEORGES,18.2,-68.7,105.0,Category 3,República Dominicana,DO,
+1998-09-23 21:30:00,GEORGES,20.1,-74.5,65.0,Category 1,Cuba,CU,Guantánamo
+1998-09-25 15:30:00,GEORGES,24.5,-81.8,90.0,Category 2,United States,US,Florida
+1998-09-28 11:30:00,GEORGES,30.4,-88.9,90.0,Category 2,United States,US,Mississippi
+1998-10-29 12:00:00,MITCH,15.9,-85.7,70.0,Category 1,Honduras,HN,
+1998-11-04 02:00:00,MITCH,20.1,-90.5,35.0,Tropical Storm,México,MX,
+1998-11-05 11:00:00,MITCH,26.2,-81.9,55.0,Tropical Storm,United States,US,Florida
+1999-07-03 04:00:00,UNNAMED,20.5,-97.0,30.0,Tropical Depression,México,MX,
+1999-08-23 00:00:00,BRET,26.9,-97.4,100.0,Category 3,United States,US,Texas
+1999-08-28 07:00:00,DENNIS,26.6,-76.8,75.0,Category 1,The Bahamas,BS,
+1999-09-04 21:00:00,DENNIS,34.8,-76.5,60.0,Tropical Storm,United States,US,North Carolina
+1999-09-06 12:00:00,UNNAMED,23.2,-97.7,30.0,Tropical Depression,México,MX,
+1999-09-14 12:00:00,FLOYD,25.4,-76.3,105.0,Category 3,The Bahamas,BS,
+1999-09-14 19:00:00,FLOYD,26.3,-77.1,110.0,Category 3,The Bahamas,BS,
+1999-09-16 06:30:00,FLOYD,33.8,-78.0,90.0,Category 2,United States,US,North Carolina
+1999-09-21 17:00:00,HARVEY,25.9,-81.7,50.0,Tropical Storm,United States,US,Florida
+1999-10-14 12:00:00,IRENE,21.3,-82.9,60.0,Tropical Storm,Cuba,CU,Isla de la Juventud
+1999-10-14 19:00:00,IRENE,22.7,-82.5,60.0,Tropical Storm,Cuba,CU,Artemisa
+1999-10-15 13:00:00,IRENE,24.6,-81.6,65.0,Category 1,United States,US,Florida
+1999-10-15 20:00:00,IRENE,25.3,-81.1,70.0,Category 1,United States,US,Florida
+1999-10-20 16:00:00,JOSE,17.1,-61.7,80.0,Category 1,Antigua and Barbuda,AG,Antigua
+1999-10-21 11:05:00,JOSE,18.4,-64.6,60.0,Tropical Storm,British Virgin Islands,VG,
+1999-10-30 00:00:00,KATRINA,13.8,-83.4,35.0,Tropical Storm,Nicaragua,NI,
+1999-11-17 18:00:00,LENNY,17.4,-64.8,135.0,Category 4,,,
+1999-11-18 18:00:00,LENNY,18.0,-63.3,110.0,Category 3,France,FR,Saint-Martin (France)
+1999-11-19 00:00:00,LENNY,18.1,-63.1,85.0,Category 2,France,FR,Saint-Martin (France)
+1999-11-19 06:00:00,LENNY,18.0,-62.9,75.0,Category 1,France,FR,Saint-Barthélemy
+1999-11-20 00:00:00,LENNY,17.3,-61.8,55.0,Tropical Storm,Antigua and Barbuda,AG,Antigua
+2000-08-22 06:00:00,DEBBY,17.5,-61.7,65.0,Category 1,Antigua and Barbuda,AG,Barbuda
+2000-08-22 09:15:00,DEBBY,17.9,-62.8,65.0,Category 1,France,FR,Saint-Barthélemy
+2000-08-22 15:00:00,DEBBY,18.5,-64.4,65.0,Category 1,British Virgin Islands,VG,
+2000-09-09 10:00:00,UNNAMED,29.9,-93.9,25.0,Tropical Depression,United States,US,Texas
+2000-09-18 03:00:00,GORDON,29.3,-83.2,55.0,Tropical Storm,United States,US,Florida
+2000-09-22 12:00:00,HELENE,30.5,-86.6,35.0,Tropical Storm,United States,US,Florida
+2000-10-02 23:00:00,KEITH,17.9,-88.0,65.0,Category 1,Belize,BZ,Belize District
+2000-10-03 03:00:00,KEITH,17.9,-88.2,60.0,Tropical Storm,Belize,BZ,Belize District
+2000-10-05 18:00:00,KEITH,22.6,-97.9,80.0,Category 1,México,MX,Tamaulipas
+2001-06-05 21:00:00,ALLISON,28.9,-95.3,45.0,Tropical Storm,United States,US,Texas
+2001-06-11 02:00:00,ALLISON,29.6,-91.6,30.0,Tropical Depression,United States,US,Louisiana
+2001-08-06 05:00:00,BARRY,30.4,-86.3,60.0,Tropical Storm,United States,US,Florida
+2001-08-21 02:00:00,CHANTAL,18.1,-87.8,60.0,Tropical Storm,Belize,BZ,Belize District
+2001-09-14 12:00:00,GABRIELLE,27.1,-82.6,60.0,Tropical Storm,United States,US,Florida
+2001-09-20 00:00:00,UNNAMED,13.9,-83.5,30.0,Tropical Depression,Nicaragua,NI,
+2001-10-09 02:00:00,IRIS,16.3,-88.4,125.0,Category 4,Belize,BZ,Toledo District
+2001-10-15 12:00:00,KAREN,44.2,-64.8,40.0,Tropical Storm,Canada,CA,Nova Scotia
+2001-11-04 18:00:00,MICHELLE,21.5,-81.8,120.0,Category 4,Cuba,CU,Isla de la Juventud
+2001-11-04 23:00:00,MICHELLE,22.1,-81.2,115.0,Category 4,Cuba,CU,Matanzas
+2001-11-05 12:00:00,MICHELLE,24.3,-78.0,80.0,Category 1,The Bahamas,BS,
+2001-11-05 18:00:00,MICHELLE,25.4,-76.4,75.0,Category 1,The Bahamas,BS,
+2002-08-05 02:00:00,BERTHA,29.4,-89.3,35.0,Tropical Storm,United States,US,Louisiana
+2002-08-09 08:00:00,BERTHA,27.3,-97.4,20.0,Tropical Depression,United States,US,Texas
+2002-09-05 00:45:00,EDOUARD,29.4,-81.1,35.0,Tropical Storm,United States,US,Florida
+2002-09-07 09:00:00,FAY,28.5,-96.3,50.0,Tropical Storm,United States,US,Texas
+2002-09-12 04:30:00,GUSTAV,45.6,-60.4,80.0,Category 1,Canada,CA,Nova Scotia
+2002-09-12 09:00:00,GUSTAV,47.6,-58.6,65.0,Category 1,Canada,CA,Newfoundland and Labrador
+2002-09-14 08:00:00,HANNA,29.1,-89.1,50.0,Tropical Storm,United States,US,Louisiana
+2002-09-14 15:00:00,HANNA,30.4,-88.4,50.0,Tropical Storm,United States,US,Mississippi
+2002-09-20 21:00:00,ISIDORE,22.0,-84.1,75.0,Category 1,Cuba,CU,Pinar del Río
+2002-09-22 21:00:00,ISIDORE,21.3,-89.3,110.0,Category 3,México,MX,Yucatán
+2002-09-26 06:00:00,ISIDORE,29.1,-90.3,55.0,Tropical Storm,United States,US,Louisiana
+2002-09-30 14:00:00,LILI,19.7,-79.8,65.0,Category 1,Cayman Islands,KY,
+2002-10-01 11:00:00,LILI,21.3,-83.0,90.0,Category 2,Cuba,CU,Isla de la Juventud
+2002-10-01 14:00:00,LILI,22.1,-84.0,90.0,Category 2,Cuba,CU,Pinar del Río
+2002-10-03 13:00:00,LILI,29.5,-92.2,80.0,Category 1,United States,US,
+2002-10-11 17:00:00,KYLE,33.0,-79.5,35.0,Tropical Storm,United States,US,South Carolina
+2002-10-11 22:00:00,KYLE,33.9,-78.4,35.0,Tropical Storm,United States,US,North Carolina
+2002-10-16 16:00:00,UNNAMED,22.0,-80.7,25.0,Tropical Depression,Cuba,CU,Matanzas
+2003-06-30 19:00:00,BILL,29.3,-91.0,50.0,Tropical Storm,United States,US,Louisiana
+2003-07-11 10:00:00,CLAUDETTE,20.8,-86.9,50.0,Tropical Storm,México,MX,
+2003-07-15 15:30:00,CLAUDETTE,28.3,-96.2,80.0,Category 1,United States,US,
+2003-07-26 06:00:00,UNNAMED,31.5,-81.3,25.0,Tropical Depression,United States,US,Georgia
+2003-08-16 10:30:00,ERIKA,25.3,-97.4,65.0,Category 1,México,MX,Tamaulipas
+2003-08-31 11:00:00,GRACE,29.0,-95.1,35.0,Tropical Storm,United States,US,Texas
+2003-09-06 09:00:00,HENRI,27.9,-82.8,30.0,Tropical Depression,United States,US,Florida
+2003-09-18 17:00:00,ISABEL,34.9,-76.2,90.0,Category 2,United States,US,North Carolina
+2003-09-29 03:00:00,JUAN,44.4,-63.8,85.0,Category 2,Canada,CA,Nova Scotia
+2003-10-05 10:00:00,LARRY,18.4,-93.5,50.0,Tropical Storm,México,MX,Tabasco
+2003-12-06 23:00:00,ODETTE,17.8,-71.5,50.0,Tropical Storm,República Dominicana,DO,
+2004-08-12 14:00:00,BONNIE,29.6,-85.1,40.0,Tropical Storm,United States,US,Florida
+2004-08-13 04:30:00,CHARLEY,22.7,-82.6,105.0,Category 3,Cuba,CU,Artemisa
+2004-08-13 19:45:00,CHARLEY,26.6,-82.2,130.0,Category 4,United States,US,Florida
+2004-08-13 20:45:00,CHARLEY,26.9,-82.1,125.0,Category 4,United States,US,Florida
+2004-08-14 14:00:00,CHARLEY,33.0,-79.4,70.0,Category 1,United States,US,South Carolina
+2004-08-14 16:00:00,CHARLEY,33.8,-78.7,65.0,Category 1,United States,US,South Carolina
+2004-08-29 14:00:00,GASTON,33.0,-79.6,65.0,Category 1,United States,US,South Carolina
+2004-08-31 06:00:00,HERMINE,41.5,-70.9,35.0,Tropical Storm,United States,US,Massachusetts
+2004-09-02 19:30:00,FRANCES,24.0,-74.5,110.0,Category 3,The Bahamas,BS,
+2004-09-03 05:30:00,FRANCES,24.6,-75.6,100.0,Category 3,The Bahamas,BS,
+2004-09-03 10:00:00,FRANCES,25.1,-76.1,95.0,Category 2,The Bahamas,BS,
+2004-09-04 10:00:00,FRANCES,26.6,-78.2,90.0,Category 2,The Bahamas,BS,
+2004-09-05 04:30:00,FRANCES,27.2,-80.2,90.0,Category 2,United States,US,Florida
+2004-09-06 18:00:00,FRANCES,30.1,-84.0,50.0,Tropical Storm,United States,US,Florida
+2004-09-14 04:00:00,JEANNE,16.2,-61.3,30.0,Tropical Depression,France,FR,Guadeloupe
+2004-09-15 16:00:00,JEANNE,18.0,-66.0,60.0,Tropical Storm,United States,US,Puerto Rico
+2004-09-16 06:50:00,IVAN,30.2,-87.9,105.0,Category 3,United States,US,Alabama
+2004-09-16 11:00:00,JEANNE,18.6,-68.3,70.0,Category 1,República Dominicana,DO,La Altagracia
+2004-09-24 02:00:00,IVAN,29.8,-93.6,30.0,Tropical Depression,United States,US,Louisiana
+2004-09-25 14:00:00,JEANNE,26.7,-77.3,100.0,Category 3,The Bahamas,BS,
+2004-09-26 04:00:00,JEANNE,27.2,-80.2,105.0,Category 3,United States,US,Florida
+2004-10-10 11:00:00,MATTHEW,29.2,-91.0,35.0,Tropical Storm,United States,US,Louisiana
+2005-06-10 08:00:00,ARLENE,21.8,-84.5,45.0,Tropical Storm,Cuba,CU,Pinar del Río
+2005-06-11 19:00:00,ARLENE,30.3,-87.5,50.0,Tropical Storm,United States,US,Alabama
+2005-06-29 12:00:00,BRET,20.8,-97.3,35.0,Tropical Storm,México,MX,Veracruz
+2005-07-04 03:30:00,CINDY,19.0,-87.6,30.0,Tropical Depression,México,MX,Quintana Roo
+2005-07-04 21:00:00,DENNIS,12.1,-61.6,30.0,Tropical Depression,Grenada,GD,
+2005-07-06 03:00:00,CINDY,29.2,-90.1,65.0,Category 1,United States,US,Louisiana
+2005-07-06 09:00:00,CINDY,30.2,-89.5,45.0,Tropical Storm,United States,US,Mississippi
+2005-07-08 02:45:00,DENNIS,19.9,-77.6,120.0,Category 4,Cuba,CU,
+2005-07-08 18:45:00,DENNIS,22.1,-80.7,120.0,Category 4,Cuba,CU,Matanzas
+2005-07-10 19:30:00,DENNIS,30.4,-87.1,105.0,Category 3,United States,US,Florida
+2005-07-14 07:00:00,EMILY,12.0,-61.8,75.0,Category 1,Grenada,GD,
+2005-07-18 06:30:00,EMILY,20.3,-87.4,115.0,Category 4,México,MX,Quintana Roo
+2005-07-20 12:00:00,EMILY,24.8,-97.6,110.0,Category 3,México,MX,Tamaulipas
+2005-07-25 00:00:00,GERT,21.8,-97.6,40.0,Tropical Storm,México,MX,Veracruz
+2005-08-23 03:30:00,JOSE,19.7,-96.4,50.0,Tropical Storm,México,MX,Veracruz
+2005-08-25 22:30:00,KATRINA,26.0,-80.1,70.0,Category 1,United States,US,Florida
+2005-08-29 11:10:00,KATRINA,29.3,-89.6,110.0,Category 3,United States,US,Louisiana
+2005-08-29 14:45:00,KATRINA,30.2,-89.6,105.0,Category 3,United States,US,Louisiana
+2005-09-06 16:00:00,OPHELIA,26.6,-78.3,25.0,Tropical Depression,The Bahamas,BS,
+2005-09-24 07:40:00,RITA,29.7,-93.7,100.0,Category 3,United States,US,Louisiana
+2005-10-02 10:00:00,STAN,19.6,-87.5,35.0,Tropical Storm,México,MX,
+2005-10-04 12:00:00,STAN,18.6,-94.9,70.0,Category 1,México,MX,
+2005-10-05 23:00:00,TAMMY,30.4,-81.4,45.0,Tropical Storm,United States,US,Florida
+2005-10-11 09:00:00,VINCE,37.2,-7.1,30.0,Tropical Depression,España,ES,Andalucía
+2005-10-21 21:45:00,WILMA,20.6,-86.8,130.0,Category 4,México,MX,
+2005-10-22 03:30:00,WILMA,20.8,-86.9,115.0,Category 4,México,MX,
+2005-10-23 10:00:00,ALPHA,18.3,-71.3,45.0,Tropical Storm,República Dominicana,DO,Independencia
+2005-10-24 10:30:00,WILMA,25.9,-81.7,105.0,Category 3,United States,US,Florida
+2005-10-30 12:00:00,BETA,12.9,-83.5,90.0,Category 2,Nicaragua,NI,
+2006-06-13 16:30:00,ALBERTO,29.9,-83.7,40.0,Tropical Storm,United States,US,Florida
+2006-07-21 06:45:00,BERYL,41.3,-70.1,45.0,Tropical Storm,United States,US,Massachusetts
+2006-08-28 11:15:00,ERNESTO,19.9,-75.5,35.0,Tropical Storm,Cuba,CU,Santiago de Cuba
+2006-08-30 03:00:00,ERNESTO,24.9,-80.6,40.0,Tropical Storm,United States,US,Florida
+2006-08-30 05:00:00,ERNESTO,25.2,-80.7,40.0,Tropical Storm,United States,US,Florida
+2006-09-01 03:40:00,ERNESTO,33.9,-78.1,60.0,Tropical Storm,United States,US,North Carolina
+2007-06-02 14:00:00,BARRY,27.5,-82.7,30.0,Tropical Depression,United States,US,Florida
+2007-08-16 10:30:00,ERIN,28.0,-96.9,30.0,Tropical Depression,United States,US,Texas
+2007-08-21 08:30:00,DEAN,18.7,-87.7,150.0,Category 5,México,MX,Quintana Roo
+2007-08-22 16:30:00,DEAN,20.5,-97.0,85.0,Category 2,México,MX,
+2007-09-01 08:45:00,FELIX,12.1,-61.7,45.0,Tropical Storm,Grenada,GD,
+2007-09-04 12:00:00,FELIX,14.3,-83.2,140.0,Category 5,Nicaragua,NI,
+2007-09-09 15:30:00,GABRIELLE,34.8,-76.4,50.0,Tropical Storm,United States,US,North Carolina
+2007-09-13 07:00:00,HUMBERTO,29.6,-94.3,80.0,Category 1,United States,US,Texas
+2007-09-22 00:00:00,TEN,30.4,-86.7,25.0,Tropical Depression,United States,US,Florida
+2007-09-28 05:00:00,LORENZO,20.5,-97.0,65.0,Category 1,México,MX,
+2007-10-29 07:00:00,NOEL,18.1,-72.5,45.0,Tropical Storm,Ayiti,HT,Département du Sud-Est
+2007-10-30 06:00:00,NOEL,21.1,-75.8,50.0,Tropical Storm,Cuba,CU,Holguín
+2007-11-01 13:15:00,NOEL,24.1,-77.9,50.0,Tropical Storm,The Bahamas,BS,
+2007-11-01 17:45:00,NOEL,25.0,-77.4,55.0,Tropical Storm,The Bahamas,BS,
+2007-12-11 07:00:00,OLGA,18.4,-66.5,40.0,Tropical Storm,United States,US,Puerto Rico
+2007-12-11 18:00:00,OLGA,18.5,-68.4,50.0,Tropical Storm,República Dominicana,DO,La Altagracia
+2008-05-31 09:00:00,ARTHUR,17.9,-88.2,40.0,Tropical Storm,Belize,BZ,Belize District
+2008-07-21 05:30:00,DOLLY,20.8,-87.0,45.0,Tropical Storm,México,MX,Quintana Roo
+2008-07-23 18:20:00,DOLLY,26.4,-97.2,75.0,Category 1,United States,US,Texas
+2008-07-23 20:00:00,DOLLY,26.4,-97.4,70.0,Category 1,United States,US,Texas
+2008-08-05 12:00:00,EDOUARD,29.6,-94.2,55.0,Tropical Storm,United States,US,Texas
+2008-08-15 14:30:00,FAY,18.5,-68.4,35.0,Tropical Storm,República Dominicana,DO,La Altagracia
+2008-08-16 11:45:00,FAY,18.8,-72.8,40.0,Tropical Storm,Ayiti,HT,Département de l'Ouest
+2008-08-17 09:00:00,FAY,19.9,-77.4,45.0,Tropical Storm,Cuba,CU,
+2008-08-18 07:00:00,FAY,22.1,-80.8,45.0,Tropical Storm,Cuba,CU,Matanzas
+2008-08-18 20:30:00,FAY,24.5,-81.8,50.0,Tropical Storm,United States,US,Florida
+2008-08-19 08:45:00,FAY,25.9,-81.6,55.0,Tropical Storm,United States,US,Florida
+2008-08-21 19:00:00,FAY,29.3,-81.1,55.0,Tropical Storm,United States,US,Florida
+2008-08-23 06:15:00,FAY,29.8,-84.7,45.0,Tropical Storm,United States,US,Florida
+2008-08-26 18:00:00,GUSTAV,18.1,-72.8,70.0,Category 1,Ayiti,HT,
+2008-08-28 18:00:00,GUSTAV,18.0,-76.2,60.0,Tropical Storm,Jamaica,JM,
+2008-08-29 02:00:00,GUSTAV,17.9,-77.2,60.0,Tropical Storm,Jamaica,JM,
+2008-08-30 18:00:00,GUSTAV,21.6,-82.5,125.0,Category 4,Cuba,CU,Isla de la Juventud
+2008-08-30 22:00:00,GUSTAV,22.4,-83.1,135.0,Category 4,Cuba,CU,Pinar del Río
+2008-09-01 15:00:00,GUSTAV,29.2,-90.7,90.0,Category 2,United States,US,Louisiana
+2008-09-02 00:00:00,HANNA,21.8,-72.3,75.0,Category 1,Turks and Caicos Islands,TC,
+2008-09-03 19:00:00,HANNA,21.7,-71.8,50.0,Tropical Storm,Turks and Caicos Islands,TC,
+2008-09-06 07:00:00,HANNA,33.8,-78.7,60.0,Tropical Storm,United States,US,South Carolina
+2008-09-07 13:00:00,IKE,21.0,-73.2,110.0,Category 3,The Bahamas,BS,
+2008-09-08 02:00:00,IKE,21.1,-75.7,115.0,Category 4,Cuba,CU,Holguín
+2008-09-09 14:00:00,IKE,22.6,-82.9,70.0,Category 1,Cuba,CU,Artemisa
+2008-09-13 07:00:00,IKE,29.3,-94.7,95.0,Category 2,United States,US,Texas
+2008-09-29 00:00:00,KYLE,43.8,-66.2,65.0,Category 1,Canada,CA,Nova Scotia
+2008-10-07 12:00:00,MARCO,19.9,-96.5,55.0,Tropical Storm,México,MX,Veracruz
+2008-10-15 12:30:00,SIXTEEN,15.9,-84.5,25.0,Tropical Depression,Honduras,HN,Gracias a Dios
+2008-11-09 01:00:00,PALOMA,20.7,-78.0,85.0,Category 2,Cuba,CU,Camagüey
+2009-08-17 05:30:00,CLAUDETTE,30.4,-86.5,40.0,Tropical Storm,United States,US,Florida
+2009-08-24 03:00:00,BILL,46.9,-56.0,60.0,Tropical Storm,Canada,CA,Newfoundland and Labrador
+2009-09-02 18:30:00,ERIKA,16.3,-61.3,35.0,Tropical Storm,France,FR,Guadeloupe
+2009-11-05 12:00:00,IDA,12.9,-83.6,70.0,Category 1,Nicaragua,NI,
+2010-06-27 00:00:00,ALEX,17.5,-88.2,55.0,Tropical Storm,Belize,BZ,Belize District
+2010-07-01 02:00:00,ALEX,24.2,-97.7,95.0,Category 2,México,MX,
+2010-07-08 14:00:00,TWO,26.1,-97.1,30.0,Tropical Depression,United States,US,Texas
+2010-07-22 23:15:00,BONNIE,23.0,-75.7,35.0,Tropical Storm,The Bahamas,BS,
+2010-07-23 05:15:00,BONNIE,23.7,-77.5,40.0,Tropical Storm,The Bahamas,BS,
+2010-07-23 14:30:00,BONNIE,25.4,-80.2,35.0,Tropical Storm,United States,US,Florida
+2010-09-04 15:00:00,EARL,44.3,-64.5,65.0,Category 1,Canada,CA,Nova Scotia
+2010-09-04 19:00:00,EARL,46.0,-62.7,60.0,Tropical Storm,Canada,CA,Prince Edward Island
+2010-09-07 02:00:00,HERMINE,25.3,-97.4,60.0,Tropical Storm,México,MX,Tamaulipas
+2010-09-15 12:45:00,KARL,18.5,-87.8,55.0,Tropical Storm,México,MX,Quintana Roo
+2010-09-17 16:45:00,KARL,19.3,-96.2,100.0,Category 3,México,MX,
+2010-09-21 15:00:00,IGOR,46.6,-53.2,75.0,Category 1,Canada,CA,Newfoundland and Labrador
+2010-09-24 19:00:00,MATTHEW,14.7,-83.3,50.0,Tropical Storm,Nicaragua,NI,
+2010-09-25 15:00:00,MATTHEW,16.5,-88.4,35.0,Tropical Storm,Belize,BZ,Toledo District
+2010-10-11 12:00:00,PAULA,15.0,-83.2,45.0,Tropical Storm,Honduras,HN,Gracias a Dios
+2010-10-14 15:00:00,PAULA,22.7,-83.9,55.0,Tropical Storm,Cuba,CU,Pinar del Río
+2010-10-25 00:30:00,RICHARD,17.2,-88.3,85.0,Category 2,Belize,BZ,Belize District
+2010-10-30 09:00:00,TOMAS,13.0,-59.5,60.0,Tropical Storm,Barbados,BB,
+2010-10-30 20:00:00,TOMAS,13.4,-61.2,85.0,Category 2,Saint Vincent and the Grenadines,VC,
+2010-11-06 07:30:00,TOMAS,21.7,-71.6,60.0,Tropical Storm,Turks and Caicos Islands,TC,
+2011-06-30 13:00:00,ARLENE,21.6,-97.4,55.0,Tropical Storm,México,MX,Veracruz
+2011-07-30 02:30:00,DON,27.3,-97.4,30.0,Tropical Depression,United States,US,Texas
+2011-08-20 17:30:00,HARVEY,17.0,-88.3,55.0,Tropical Storm,Belize,BZ,Stann Creek District
+2011-08-21 23:00:00,IRENE,17.8,-64.6,60.0,Tropical Storm,United States,US,United States Virgin Islands
+2011-08-22 02:00:00,HARVEY,18.7,-95.2,35.0,Tropical Storm,México,MX,Veracruz
+2011-08-22 05:25:00,IRENE,18.1,-65.8,60.0,Tropical Storm,United States,US,Puerto Rico
+2011-08-24 16:00:00,IRENE,22.4,-74.0,100.0,Category 3,The Bahamas,BS,
+2011-08-25 00:00:00,IRENE,23.5,-75.1,95.0,Category 2,The Bahamas,BS,
+2011-08-25 09:00:00,IRENE,24.7,-76.2,90.0,Category 2,The Bahamas,BS,
+2011-08-25 18:00:00,IRENE,26.5,-77.2,90.0,Category 2,The Bahamas,BS,
+2011-08-27 12:00:00,IRENE,34.7,-76.6,75.0,Category 1,United States,US,North Carolina
+2011-08-28 09:35:00,IRENE,39.4,-74.4,60.0,Tropical Storm,United States,US,New Jersey
+2011-08-28 13:00:00,IRENE,40.6,-74.0,55.0,Tropical Storm,United States,US,New York
+2011-09-04 10:30:00,LEE,29.6,-92.1,40.0,Tropical Storm,United States,US,Louisiana
+2011-09-11 16:00:00,NATE,20.5,-97.0,40.0,Tropical Storm,México,MX,
+2011-09-16 18:30:00,MARIA,47.0,-53.5,60.0,Tropical Storm,Canada,CA,Newfoundland and Labrador
+2011-10-28 02:00:00,RINA,20.5,-87.2,50.0,Tropical Storm,México,MX,Quintana Roo
+2012-05-28 04:10:00,BERYL,30.2,-81.4,55.0,Tropical Storm,United States,US,Florida
+2012-06-26 21:00:00,DEBBY,29.3,-83.2,35.0,Tropical Storm,United States,US,Florida
+2012-08-08 01:00:00,ERNESTO,18.7,-87.2,80.0,Category 1,México,MX,
+2012-08-08 03:15:00,ERNESTO,18.8,-87.7,85.0,Category 2,México,MX,Quintana Roo
+2012-08-09 16:15:00,ERNESTO,18.3,-94.6,55.0,Tropical Storm,México,MX,
+2012-08-18 12:00:00,HELENE,21.9,-97.7,30.0,Tropical Depression,México,MX,Veracruz
+2012-08-20 05:30:00,GORDON,37.0,-25.1,65.0,Category 1,Portugal,PT,
+2012-08-25 06:00:00,ISAAC,18.3,-72.7,55.0,Tropical Storm,Ayiti,HT,Département du Sud-Est
+2012-08-25 15:00:00,ISAAC,20.1,-74.5,50.0,Tropical Storm,Cuba,CU,Guantánamo
+2012-08-29 00:00:00,ISAAC,28.9,-89.4,70.0,Category 1,United States,US,Louisiana
+2012-08-29 08:00:00,ISAAC,29.2,-90.2,70.0,Category 1,United States,US,Louisiana
+2012-10-24 19:00:00,SANDY,17.9,-76.6,75.0,Category 1,Jamaica,JM,
+2012-10-25 05:25:00,SANDY,20.0,-76.0,100.0,Category 3,Cuba,CU,Santiago de Cuba
+2012-10-29 23:30:00,SANDY,39.4,-74.4,70.0,Category 1,United States,US,New Jersey
+2013-06-06 22:00:00,ANDREA,29.5,-83.4,50.0,Tropical Storm,United States,US,Florida
+2013-06-17 22:00:00,BARRY,16.5,-88.4,30.0,Tropical Depression,Belize,BZ,Toledo District
+2013-06-20 11:15:00,BARRY,19.6,-96.4,40.0,Tropical Storm,México,MX,Veracruz
+2013-08-26 04:45:00,FERNAND,19.5,-96.3,50.0,Tropical Storm,México,MX,
+2013-09-06 18:00:00,EIGHT,22.3,-97.9,30.0,Tropical Depression,México,MX,Tamaulipas
+2013-09-16 11:15:00,INGRID,23.7,-97.7,55.0,Tropical Storm,México,MX,
+2014-07-04 03:15:00,ARTHUR,34.7,-76.6,85.0,Category 2,United States,US,North Carolina
+2014-07-04 08:00:00,ARTHUR,35.8,-75.5,85.0,Category 2,United States,US,North Carolina
+2014-08-03 14:00:00,BERTHA,21.8,-71.9,40.0,Tropical Storm,Turks and Caicos Islands,TC,
+2014-09-03 04:00:00,DOLLY,22.0,-97.7,40.0,Tropical Storm,México,MX,
+2014-10-12 08:10:00,FAY,32.3,-64.7,70.0,Category 1,Bermuda,BM,
+2014-10-13 14:30:00,GONZALO,17.1,-61.8,65.0,Category 1,Antigua and Barbuda,AG,Antigua
+2014-10-13 22:45:00,GONZALO,18.1,-63.0,75.0,Category 1,France,FR,Saint-Martin (France)
+2014-10-13 23:15:00,GONZALO,18.2,-63.1,75.0,Category 1,Anguilla,AI,
+2014-10-18 00:30:00,GONZALO,32.3,-64.8,95.0,Category 2,Bermuda,BM,
+2014-10-27 16:00:00,HANNA,14.9,-83.3,35.0,Tropical Storm,Nicaragua,NI,
+2015-05-10 10:00:00,ANA,33.8,-78.8,40.0,Tropical Storm,United States,US,South Carolina
+2015-06-16 16:45:00,BILL,28.2,-96.7,50.0,Tropical Storm,United States,US,Texas
+2015-10-01 12:00:00,JOAQUIN,23.1,-73.7,115.0,Category 4,The Bahamas,BS,
+2015-10-02 16:00:00,JOAQUIN,23.6,-74.8,110.0,Category 3,The Bahamas,BS,
+2015-10-02 21:00:00,JOAQUIN,24.1,-74.5,110.0,Category 3,The Bahamas,BS,
+2016-01-15 13:15:00,ALEX,38.7,-27.1,55.0,Tropical Storm,Portugal,PT,
+2016-05-29 12:30:00,BONNIE,32.8,-79.8,30.0,Tropical Depression,United States,US,South Carolina
+2016-06-07 02:00:00,COLIN,29.8,-83.6,45.0,Tropical Storm,United States,US,Florida
+2016-06-20 22:00:00,DANIELLE,21.2,-97.4,35.0,Tropical Storm,México,MX,
+2016-08-04 04:00:00,EARL,17.4,-87.8,75.0,Category 1,Belize,BZ,Belize District
+2016-08-04 06:00:00,EARL,17.4,-88.3,75.0,Category 1,Belize,BZ,Belize District
+2016-08-06 02:30:00,EARL,19.0,-96.0,50.0,Tropical Storm,México,MX,Veracruz
+2016-09-02 05:30:00,HERMINE,30.1,-84.1,70.0,Category 1,United States,US,Florida
+2016-09-13 06:00:00,JULIA,27.3,-80.2,30.0,Tropical Depression,United States,US,Florida
+2016-10-04 11:00:00,MATTHEW,18.3,-74.3,130.0,Category 4,Ayiti,HT,Département du Sud
+2016-10-05 00:00:00,MATTHEW,20.1,-74.3,115.0,Category 4,Cuba,CU,Guantánamo
+2016-10-07 00:00:00,MATTHEW,26.7,-79.0,115.0,Category 4,The Bahamas,BS,
+2016-10-08 15:00:00,MATTHEW,33.0,-79.5,75.0,Category 1,United States,US,South Carolina
+2016-11-24 17:30:00,OTTO,11.0,-83.8,100.0,Category 3,Nicaragua,NI,Río San Juan
+2017-06-20 02:00:00,BRET,10.1,-61.1,45.0,Tropical Storm,Trinidad and Tobago,TT,
+2017-06-20 09:00:00,BRET,10.6,-62.6,45.0,Tropical Storm,Venezuela,VE,Sucre
+2017-06-22 07:00:00,CINDY,29.8,-93.7,45.0,Tropical Storm,United States,US,Louisiana
+2017-07-31 14:45:00,EMILY,27.5,-82.7,50.0,Tropical Storm,United States,US,Florida
+2017-08-08 03:45:00,FRANKLIN,19.1,-87.6,50.0,Tropical Storm,México,MX,Quintana Roo
+2017-08-10 05:00:00,FRANKLIN,20.0,-96.6,70.0,Category 1,México,MX,Veracruz
+2017-08-18 10:00:00,HARVEY,13.1,-59.6,40.0,Tropical Storm,Barbados,BB,
+2017-08-18 15:00:00,HARVEY,13.2,-61.2,40.0,Tropical Storm,Saint Vincent and the Grenadines,VC,
+2017-08-26 03:00:00,HARVEY,28.0,-96.9,115.0,Category 4,United States,US,Texas
+2017-08-26 06:00:00,HARVEY,28.2,-97.1,105.0,Category 3,United States,US,Texas
+2017-08-30 08:00:00,HARVEY,29.8,-93.5,40.0,Tropical Storm,United States,US,Louisiana
+2017-09-06 05:45:00,IRMA,17.7,-61.8,155.0,Category 5,Antigua and Barbuda,AG,Barbuda
+2017-09-06 11:15:00,IRMA,18.1,-63.1,155.0,Category 5,France,FR,Saint-Martin (France)
+2017-09-06 16:30:00,IRMA,18.5,-64.4,155.0,Category 5,British Virgin Islands,VG,
+2017-09-08 05:00:00,IRMA,21.5,-73.0,135.0,Category 4,The Bahamas,BS,
+2017-09-09 03:00:00,IRMA,22.3,-77.9,145.0,Category 5,Cuba,CU,Camagüey
+2017-09-09 03:00:00,KATIA,20.6,-97.1,65.0,Category 1,México,MX,
+2017-09-10 13:00:00,IRMA,24.7,-81.5,115.0,Category 4,United States,US,Florida
+2017-09-10 19:30:00,IRMA,25.9,-81.7,100.0,Category 3,United States,US,Florida
+2017-09-19 01:15:00,MARIA,15.4,-61.3,145.0,Category 5,Dominica,DM,Saint David Parish
+2017-09-20 10:15:00,MARIA,18.0,-65.9,135.0,Category 4,United States,US,Puerto Rico
+2017-10-05 12:00:00,NATE,13.9,-83.5,35.0,Tropical Storm,Nicaragua,NI,
+2017-10-08 00:00:00,NATE,29.1,-89.2,75.0,Category 1,United States,US,Louisiana
+2017-10-08 05:20:00,NATE,30.4,-89.0,65.0,Category 1,United States,US,Mississippi
+2017-10-16 11:00:00,OPHELIA,51.9,-10.4,65.0,Category 1,Éire / Ireland,IE,
+2017-10-28 22:00:00,PHILIPPE,22.2,-81.6,35.0,Tropical Storm,Cuba,CU,Matanzas
+2018-05-28 21:00:00,ALBERTO,30.3,-86.0,40.0,Tropical Storm,United States,US,Florida
+2018-09-03 11:15:00,GORDON,25.0,-80.5,45.0,Tropical Storm,United States,US,Florida
+2018-09-03 13:15:00,GORDON,25.2,-80.9,45.0,Tropical Storm,United States,US,Florida
+2018-09-05 03:15:00,GORDON,30.4,-88.5,60.0,Tropical Storm,United States,US,Mississippi
+2018-09-14 11:15:00,FLORENCE,34.2,-77.8,80.0,Category 1,United States,US,North Carolina
+2018-09-28 00:30:00,KIRK,13.8,-60.9,45.0,Tropical Storm,Saint Lucia,LC,Micoud
+2018-10-10 17:30:00,MICHAEL,30.0,-85.5,140.0,Category 5,United States,US,Florida
+2019-07-13 15:00:00,BARRY,29.6,-92.2,65.0,Category 1,United States,US,Louisiana
+2019-08-27 01:30:00,DORIAN,13.1,-59.4,45.0,Tropical Storm,Barbados,BB,
+2019-08-27 11:00:00,DORIAN,14.0,-60.9,45.0,Tropical Storm,Saint Lucia,LC,Gros Islet
+2019-08-28 15:30:00,DORIAN,17.8,-64.6,65.0,Category 1,United States,US,United States Virgin Islands
+2019-08-28 18:00:00,DORIAN,18.4,-65.1,70.0,Category 1,United States,US,United States Virgin Islands
+2019-09-01 16:40:00,DORIAN,26.5,-77.0,160.0,Category 5,The Bahamas,BS,
+2019-09-02 02:15:00,DORIAN,26.6,-77.8,155.0,Category 5,The Bahamas,BS,
+2019-09-04 15:30:00,FERNAND,24.2,-97.7,40.0,Tropical Storm,México,MX,
+2019-09-06 12:30:00,DORIAN,35.2,-75.6,85.0,Category 2,United States,US,North Carolina
+2019-09-17 17:45:00,IMELDA,28.9,-95.4,40.0,Tropical Storm,United States,US,Texas
+2019-09-24 22:00:00,KAREN,18.1,-65.4,40.0,Tropical Storm,United States,US,Puerto Rico
+2019-09-24 23:00:00,KAREN,18.3,-65.3,40.0,Tropical Storm,United States,US,Puerto Rico
+2020-05-27 13:30:00,BERTHA,32.9,-79.7,45.0,Tropical Storm,United States,US,South Carolina
+2020-06-03 13:00:00,CRISTOBAL,18.7,-92.1,50.0,Tropical Storm,México,MX,
+2020-06-07 22:00:00,CRISTOBAL,29.3,-89.8,45.0,Tropical Storm,United States,US,Louisiana
+2020-07-10 20:00:00,FAY,39.4,-74.4,45.0,Tropical Storm,United States,US,New Jersey
+2020-07-25 15:30:00,GONZALO,10.5,-61.0,30.0,Tropical Depression,Trinidad and Tobago,TT,
+2020-07-25 22:00:00,HANNA,26.8,-97.3,80.0,Category 1,United States,US,Texas
+2020-07-25 23:15:00,HANNA,26.7,-97.5,80.0,Category 1,United States,US,Texas
+2020-07-30 16:15:00,ISAIAS,18.4,-69.3,55.0,Tropical Storm,República Dominicana,DO,
+2020-07-31 09:00:00,ISAIAS,20.9,-73.4,70.0,Category 1,The Bahamas,BS,
+2020-08-01 13:00:00,ISAIAS,24.4,-77.7,70.0,Category 1,The Bahamas,BS,
+2020-08-04 03:10:00,ISAIAS,33.9,-78.5,80.0,Category 1,United States,US,North Carolina
+2020-08-21 20:30:00,LAURA,17.1,-61.8,40.0,Tropical Storm,Antigua and Barbuda,AG,Antigua
+2020-08-21 23:30:00,LAURA,17.1,-62.6,40.0,Tropical Storm,Saint Kitts and Nevis,KN,
+2020-08-23 04:30:00,LAURA,18.4,-70.0,45.0,Tropical Storm,República Dominicana,DO,San Cristóbal
+2020-08-24 02:00:00,LAURA,20.0,-76.6,55.0,Tropical Storm,Cuba,CU,Santiago de Cuba
+2020-08-25 00:00:00,LAURA,22.3,-83.3,55.0,Tropical Storm,Cuba,CU,Pinar del Río
+2020-08-27 06:00:00,LAURA,29.8,-93.3,130.0,Category 4,United States,US,Louisiana
+2020-09-03 06:00:00,NANA,16.8,-88.3,65.0,Category 1,Belize,BZ,Stann Creek District
+2020-09-12 06:00:00,SALLY,25.6,-80.2,30.0,Tropical Depression,United States,US,Florida
+2020-09-14 08:50:00,PAULETTE,32.3,-64.7,85.0,Category 2,Bermuda,BM,
+2020-09-16 09:45:00,SALLY,30.3,-87.7,95.0,Category 2,United States,US,Alabama
+2020-09-18 18:40:00,ALPHA,40.0,-8.9,45.0,Tropical Storm,Portugal,PT,
+2020-09-22 02:45:00,BETA,28.4,-96.4,45.0,Tropical Storm,United States,US,Texas
+2020-10-03 16:45:00,GAMMA,20.2,-87.4,65.0,Category 1,México,MX,
+2020-10-06 03:00:00,GAMMA,21.6,-88.4,30.0,Tropical Depression,México,MX,
+2020-10-07 10:30:00,DELTA,20.8,-86.9,90.0,Category 2,México,MX,
+2020-10-09 23:00:00,DELTA,29.8,-93.1,85.0,Category 2,United States,US,Louisiana
+2020-10-27 03:55:00,ZETA,20.4,-87.4,75.0,Category 1,México,MX,Quintana Roo
+2020-10-28 21:00:00,ZETA,29.2,-90.6,100.0,Category 3,United States,US,Louisiana
+2020-11-03 21:00:00,ETA,13.8,-83.5,120.0,Category 4,Nicaragua,NI,
+2020-11-08 08:55:00,ETA,21.5,-79.2,55.0,Tropical Storm,Cuba,CU,Sancti Spíritus
+2020-11-09 04:00:00,ETA,24.9,-80.7,55.0,Tropical Storm,United States,US,Florida
+2020-11-12 09:20:00,ETA,29.2,-82.9,45.0,Tropical Storm,United States,US,Florida
+2020-11-17 03:40:00,IOTA,13.6,-83.5,125.0,Category 4,Nicaragua,NI,
+2021-06-19 04:30:00,CLAUDETTE,29.2,-91.0,40.0,Tropical Storm,United States,US,Louisiana
+2021-06-28 23:20:00,DANNY,32.3,-80.5,35.0,Tropical Storm,United States,US,South Carolina
+2021-07-05 18:30:00,ELSA,22.2,-81.6,55.0,Tropical Storm,Cuba,CU,Matanzas
+2021-07-07 14:30:00,ELSA,29.8,-83.5,55.0,Tropical Storm,United States,US,Florida
+2021-07-09 15:00:00,ELSA,40.9,-72.3,50.0,Tropical Storm,United States,US,New York
+2021-07-09 16:30:00,ELSA,41.4,-71.7,50.0,Tropical Storm,United States,US,Rhode Island
+2021-08-11 17:00:00,FRED,18.4,-70.1,40.0,Tropical Storm,República Dominicana,DO,San Cristóbal
+2021-08-16 16:30:00,GRACE,17.7,-71.4,35.0,Tropical Storm,República Dominicana,DO,
+2021-08-16 19:00:00,FRED,29.7,-85.4,55.0,Tropical Storm,United States,US,Florida
+2021-08-17 14:00:00,GRACE,18.2,-76.6,50.0,Tropical Storm,Jamaica,JM,
+2021-08-19 09:45:00,GRACE,20.1,-87.5,75.0,Category 1,México,MX,Quintana Roo
+2021-08-21 05:30:00,GRACE,20.6,-97.1,105.0,Category 3,México,MX,
+2021-08-22 15:20:00,HENRI,41.2,-71.6,55.0,Tropical Storm,United States,US,Rhode Island
+2021-08-22 16:15:00,HENRI,41.3,-71.8,55.0,Tropical Storm,United States,US,Rhode Island
+2021-08-27 18:00:00,IDA,21.5,-82.6,70.0,Category 1,Cuba,CU,Isla de la Juventud
+2021-08-27 23:25:00,IDA,22.4,-83.2,70.0,Category 1,Cuba,CU,Pinar del Río
+2021-08-29 16:55:00,IDA,29.1,-90.2,130.0,Category 4,United States,US,Louisiana
+2021-09-09 01:15:00,MINDY,29.7,-85.1,50.0,Tropical Storm,United States,US,Florida
+2021-09-11 03:30:00,LARRY,47.3,-54.6,70.0,Category 1,Canada,CA,Newfoundland and Labrador
+2021-09-14 05:30:00,NICHOLAS,28.7,-95.7,65.0,Category 1,United States,US,Texas
+2022-07-01 23:30:00,COLIN,32.4,-80.5,35.0,Tropical Storm,United States,US,South Carolina
+2022-07-02 03:00:00,BONNIE,11.0,-83.8,50.0,Tropical Storm,Nicaragua,NI,Río San Juan
+2022-09-16 23:15:00,FIONA,16.4,-61.4,50.0,Tropical Storm,France,FR,Guadeloupe
+2022-09-18 19:20:00,FIONA,18.0,-67.1,75.0,Category 1,United States,US,Puerto Rico
+2022-09-19 07:30:00,FIONA,18.4,-68.5,80.0,Category 1,República Dominicana,DO,La Altagracia
+2022-09-20 11:00:00,FIONA,21.4,-71.1,100.0,Category 3,Turks and Caicos Islands,TC,
+2022-09-24 07:00:00,FIONA,45.2,-61.2,85.0,Category 2,Canada,CA,Nova Scotia
+2022-09-25 08:00:00,FIONA,51.3,-58.3,45.0,Tropical Storm,Canada,CA,Québec
+2022-09-27 08:30:00,IAN,22.2,-83.7,110.0,Category 3,Cuba,CU,Pinar del Río
+2022-09-28 02:00:00,IAN,24.6,-82.9,110.0,Category 3,United States,US,Florida
+2022-09-28 19:05:00,IAN,26.7,-82.2,130.0,Category 4,United States,US,Florida
+2022-09-28 20:35:00,IAN,26.8,-82.0,125.0,Category 4,United States,US,Florida
+2022-09-30 18:05:00,IAN,33.3,-79.2,70.0,Category 1,United States,US,South Carolina
+2022-10-07 03:00:00,JULIA,12.0,-69.8,30.0,Tropical Depression,Venezuela,VE,Falcón
+2022-10-07 08:30:00,JULIA,12.2,-71.2,30.0,Tropical Depression,Colombia,CO,La Guajira
+2022-10-09 07:15:00,JULIA,12.4,-83.6,75.0,Category 1,Nicaragua,NI,
+2022-10-10 11:00:00,JULIA,13.6,-89.7,35.0,Tropical Storm,El Salvador,SV,Departamento de Sonsonate
+2022-11-02 21:30:00,LISA,17.4,-88.3,80.0,Category 1,Belize,BZ,Belize District
+2022-11-09 17:00:00,NICOLE,26.5,-77.1,60.0,Tropical Storm,The Bahamas,BS,
+2022-11-09 23:00:00,NICOLE,26.6,-78.2,65.0,Category 1,The Bahamas,BS,
+2022-11-10 07:45:00,NICOLE,27.6,-80.3,65.0,Category 1,United States,US,Florida
+2022-11-10 19:00:00,NICOLE,29.2,-83.0,40.0,Tropical Storm,United States,US,Florida
+2022-11-11 00:00:00,NICOLE,30.1,-84.0,35.0,Tropical Storm,United States,US,Florida
